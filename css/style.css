@@ -971,3 +971,4 @@ sub, sup {
 .announce ul.sessions li a:hover {
 	color: #fff !important;
 }
+address {color:#fff;}
